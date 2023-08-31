@@ -44,3 +44,15 @@ Studying Redux using React.
 # step 2: provide the store
 
 - provider makes data accessible to entire component tree
+
+# small side step >>> pizzaSlice i.e. createSlice
+
+- create a slice to rep some data in the store
+- should have unique name
+- should have unique inital state
+- contains collection of reducers
+
+# step 3: reducer logic
+
+- reducers are fns(old_state, action)
+- define logic required to change state
