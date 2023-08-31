@@ -71,3 +71,8 @@ Studying Redux using React.
 - grab any reactive value || slice in the store
 
 # step 5: dispatch actions
+
+- to change app's data action has to be dispatched to store
+- useDispatch hook
+- addTopping >>> action
+- 'pepperoni' >>> payload
