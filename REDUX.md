@@ -56,3 +56,9 @@ Studying Redux using React.
 
 - reducers are fns(old_state, action)
 - define logic required to change state
+
+# redux toolkit
+
+- automatically generates actions that correspond to the names of these reducer fns
+- we can export them
+- use them in UI components
