@@ -40,3 +40,7 @@ Studying Redux using React.
 - i.e. global store object
 - setup configureStore()
 - will register any reducers defined elsewhere in the code
+
+# step 2: provide the store
+
+- provider makes data accessible to entire component tree
