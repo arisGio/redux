@@ -76,3 +76,11 @@ Studying Redux using React.
 - useDispatch hook
 - addTopping >>> action
 - 'pepperoni' >>> payload
+
+# redux dev tools browser extension
+
+- inspect
+- debug
+- entire timeline of actions
+- and state changes in app
+- especially graph is really cool
