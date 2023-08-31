@@ -34,3 +34,9 @@ Studying Redux using React.
 # install
 
 <code>npm install @reduxjs/toolkit react-redux</code>
+
+# step 1: create store
+
+- i.e. global store object
+- setup configureStore()
+- will register any reducers defined elsewhere in the code
