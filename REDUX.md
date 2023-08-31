@@ -62,3 +62,12 @@ Studying Redux using React.
 - automatically generates actions that correspond to the names of these reducer fns
 - we can export them
 - use them in UI components
+
+# step 4: select state
+
+- select data anywhere in the app
+- without needing context or prop drilling
+- useSelector hook
+- grab any reactive value || slice in the store
+
+# step 5: dispatch actions

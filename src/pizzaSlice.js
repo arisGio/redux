@@ -17,3 +17,7 @@ export const pizzaSlice = createSlice({
     },
   },
 });
+
+export const { toggleGluten, addTopping } = pizzaSlice.actions;
+
+export default pizzaSlice.reducer;
